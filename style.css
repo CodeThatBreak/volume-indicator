@@ -1,0 +1,33 @@
+#container {
+
+  display: flex;
+  gap:5px;
+  align-content: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.dot {
+  width: 1px;
+  height: 30px;
+ 
+}
+
+.earth-green {
+  background-color: #70bf54;
+}
+
+.sun-orange {
+  background-color: #faa21b;
+}
+
+.space-gray{
+    background-color: #2e3841;
+}
+
+.sky-blue {
+  background-color: #00bae9;
+}
+
+.ocean-blue {
+  background-color: #118acb;
+}
